@@ -1,0 +1,55 @@
+body
+{
+    background-color:cornsilk;
+}
+.cv
+{
+  background-color: lemonchiffon;
+}
+#sec1
+   {
+    text-align: center;
+    border: 2px solid chocolate;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 8px;
+   }
+   #sec2 img
+   { 
+       width: 80px;
+       height: 80px;       
+       position: relative;
+       top: -170px;
+       left: 1410px;
+   }
+   .obj
+   {
+       margin: 8px;
+       padding: 5px; 
+       border: 2px dotted;
+       border-radius: 5px;
+   }
+   .exp
+   {
+       margin: 8px;
+       padding: 5px; 
+       border: 2px dotted;
+       border-radius: 5px;
+       border-style: dotted dashed;
+   }
+   .edu
+   {
+       margin: 8px;
+       padding: 5px; 
+       border: 2px dotted;
+       border-radius: 5px;
+   }
+   .skill
+   {
+       margin: 8px;
+       padding: 5px; 
+       border: 2px dotted;
+       border-radius: 5px;
+       border-style: dotted dashed   }
+
+
